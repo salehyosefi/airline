@@ -7,6 +7,7 @@
 - [Django](https://docs.djangoproject.com/en/4.0/releases/4.0/) - Web Framework
 - [SQLite3](https://www.sqlite.org/) - Database
 - [Git](https://git-scm.com/doc) - Version Control System
+- [HTML5](https://www.w3.org/html/) - fundamental markup language
 
 ## Setup
 

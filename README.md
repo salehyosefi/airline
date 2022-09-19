@@ -12,7 +12,7 @@
 
 Then setup env using the following command
 ```
-python3 -m venv venv
+python -m venv venv
 ```
 Activate env with the following command
 ```
@@ -21,6 +21,14 @@ venv/Scripts/activate
 Install requirements
 ```
 pip install -r requirements.txt
+```
+Create a development database:
+```
+python manage.py migrate
+```
+If everything is alright, you should be able to start the Django development server:
+```
+python manage.py runserver
 ```
 
  
